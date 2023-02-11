@@ -1,5 +1,6 @@
 ## Something About Me
-Hi!! I am a final year Information Systems undergraduate from National University of Singapore aspiring to become a full-stack developer!
+Hi!! I am an Information Systems from National University of Singapore aspiring to become a full-stack developer!
+Currently working at Titansoft.
 
 You can reach me at linghengjiehendrick@gmail.com 
 <br>
